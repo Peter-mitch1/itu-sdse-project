@@ -1,0 +1,5 @@
+artifacts/
+mlflow-state/
+data/images/raw/
+data/test/*.jpg
+__pycache__/
